@@ -1,0 +1,9 @@
+.aws-sam
+.idea
+events
+
+template.yaml
+samconfig.toml
+
+Playkosmos-SAM.iml
+
